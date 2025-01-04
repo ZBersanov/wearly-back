@@ -1,0 +1,209 @@
+{
+  "users": [],
+  "category": [
+    {
+      "id": "1",
+      "title": "men",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": "2",
+      "title": "women",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": "3",
+      "title": "kids",
+      "prefix": "kids",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "baby",
+      "prefix": "baby",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "sport",
+      "prefix": "sport",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Jersey top",
+      "price": 249,
+      "cat_prefix": "men",
+      "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77055638_05.jpg?ts=1723194309727&im=SmartCrop,width=480,height=672&imdensity=1",
+      "max": 4
+    },
+    {
+      "id": "2",
+      "title": "Regular Fit Jersey top",
+      "price": 229,
+      "cat_prefix": "men",
+      "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/outfit/S/77007951_51-99999999_01.jpg?ts=1724670249555&im=SmartCrop,width=480,height=672&imdensity=1",
+      "max": 4
+    },
+    {
+      "id": "3",
+      "title": "Cotton polo shirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77090584_08.jpg?ts=1713440128085&im=SmartCrop,width=480,height=672&imdensity=1",
+      "max": 3
+    },
+    {
+      "id": "4",
+      "title": "Cotton t-shirt",
+      "price": 100,
+      "cat_prefix": "women",
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/f6/37/f637c8063c80ae343c5f041d230642f8325fd712.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "max": 2
+    },
+    {
+      "id": "5",
+      "title": "Sweatshirt shorts",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/ac/9c/ac9c70b7cdb6892cdaf89b24aca774dbe36d1254.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "max": 3
+    },
+    {
+      "id": "6",
+      "title": "Velour top",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/76/71/7671686ac2758f297d3be80091bfcdc727875613.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "max": 2
+    },
+    {
+      "id": "9",
+      "title": "Pile all-in-one suit with ears",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/e1/b0/e1b0883b70289aea2f061d412e867d726898ed29.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "max": 2
+    },
+    {
+      "id": "17",
+      "title": "Regular Fit football shirt",
+      "price": 449,
+      "cat_prefix": "sport",
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/cf/d0/cfd0ac09b662fdd2fb6f0679ec5336e138d424b4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "max": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": 5,
+      "productId": "4",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "productId": "5",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "productId": "1",
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "productId": "2",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "productId": "3",
+      "id": 8
+    },
+    {
+      "userId": 6,
+      "productId": "1",
+      "id": 9
+    },
+    {
+      "userId": 6,
+      "productId": "2",
+      "id": 10
+    },
+    {
+      "userId": 6,
+      "productId": "3",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "productId": "2",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "productId": "3",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "productId": "1",
+      "id": 17
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": "1",
+          "title": "Jersey top",
+          "price": 249,
+          "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77055638_05.jpg?ts=1723194309727&im=SmartCrop,width=480,height=672&imdensity=1",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "title": "Regular Fit Jersey top",
+          "price": 229,
+          "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/outfit/S/77007951_51-99999999_01.jpg?ts=1724670249555&im=SmartCrop,width=480,height=672&imdensity=1",
+          "quantity": 3
+        },
+        {
+          "id": "3",
+          "title": "Cotton polo shirt",
+          "price": 200,
+          "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77090584_08.jpg?ts=1713440128085&im=SmartCrop,width=480,height=672&imdensity=1",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1336,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": "1",
+          "title": "Jersey top",
+          "price": 249,
+          "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77055638_05.jpg?ts=1723194309727&im=SmartCrop,width=480,height=672&imdensity=1",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "title": "Regular Fit Jersey top",
+          "price": 229,
+          "img": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/outfit/S/77007951_51-99999999_01.jpg?ts=1724670249555&im=SmartCrop,width=480,height=672&imdensity=1",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 478,
+      "id": 2
+    }
+  ]
+}
